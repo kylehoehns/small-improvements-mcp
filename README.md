@@ -1,5 +1,7 @@
 # small-improvements-mcp
 
+[![CI](https://github.com/kylehoehns/small-improvements-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/kylehoehns/small-improvements-mcp/actions/workflows/ci.yml)
+
 A local, read-only MCP server that pulls your own Small Improvements data
 (praise, objectives, 360 feedback, reviews) so an MCP client can help you write a
 "what I did this year" / end-of-year self-review.
