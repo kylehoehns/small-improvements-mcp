@@ -1,0 +1,54 @@
+[
+  {
+    "id": "g07Wl181PwQGWUXe35UOnQ",
+    "cycleId": "c0mu7EwkFFBYdFGWMWeCiw",
+    "cycleName": "Objective Cycle 2026",
+    "authorId": "jUE-KuQxEoakmkIXXyrqnw",
+    "ownerId": "jUE-KuQxEoakmkIXXyrqnw",
+    "title": "Objective 1",
+    "icon": "o_target_alt",
+    "visibility": "public",
+    "due": 1772517600000,
+    "createdAt": 1764782928962,
+    "lastModified": 1780503199431,
+    "status": {
+      "status": 103,
+      "description": "Partially Achieved",
+      "color": "#fedc4a"
+    },
+    "rating": -1,
+    "weighting": 0,
+    "priority": -1,
+    "completionPercentage": 0,
+    "category": -1,
+    "parentId": null,
+    "type": "INDIVIDUAL",
+    "typeLabel": null
+  },
+  {
+    "id": "vEiQkoBsb7F3F10z5n*JuQ",
+    "cycleId": "mkXwNyAClnp*jXxVpokdvg",
+    "cycleName": "Objective Cycle 2025",
+    "authorId": "jUE-KuQxEoakmkIXXyrqnw",
+    "ownerId": "jUE-KuQxEoakmkIXXyrqnw",
+    "title": "Objective 2",
+    "icon": "o_presentation",
+    "visibility": "public",
+    "due": 1759208400000,
+    "createdAt": 1750899446693,
+    "lastModified": 1759328079894,
+    "status": {
+      "status": 100,
+      "description": "Achieved",
+      "color": "#2ecd72"
+    },
+    "rating": -1,
+    "weighting": 0,
+    "priority": -1,
+    "completionPercentage": 0,
+    "category": -1,
+    "parentId": null,
+    "type": "INDIVIDUAL",
+    "typeLabel": null
+  }
+]

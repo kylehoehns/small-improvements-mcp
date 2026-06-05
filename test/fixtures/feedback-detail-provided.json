@@ -1,0 +1,156 @@
+[
+  {
+    "id": "I0ipBQG1mIf1OOL6qKANng",
+    "topic": {
+      "title": "Feedback Request"
+    },
+    "requester": {
+      "id": "l0XyLXSJBhD9ozJATnDpqA",
+      "name": "Person 1",
+      "firstName": "Person",
+      "lastName": "1",
+      "logo": "/avatar.svg",
+      "gender": "female",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": "PShoT5DOT-G0tVpgB9IQlQ",
+      "loginname": "person1@example.com"
+    },
+    "reviewees": [
+      {
+        "id": "ukrXrylfY4sShujQXx5Opg",
+        "name": "Person 2",
+        "firstName": "Person",
+        "lastName": "2",
+        "logo": "/avatar.svg",
+        "gender": "male",
+        "isActive": true,
+        "isPlaceholder": false,
+        "managerId": "Ek*jjsf47AZHyux9HvQamg",
+        "loginname": "person2@example.com"
+      }
+    ],
+    "reviewers": [
+      {
+        "id": "jUE-KuQxEoakmkIXXyrqnw",
+        "name": "Person 3",
+        "firstName": "Person",
+        "lastName": "3",
+        "logo": "/avatar.svg",
+        "gender": "unspecified",
+        "isActive": true,
+        "isPlaceholder": false,
+        "managerId": "b49MMQgSSl*4Zaj4DvQLww",
+        "loginname": "person3@example.com"
+      }
+    ],
+    "progressByReviewer": {
+      "sU8t4fXphna*J-zKibARmQ": "HIDDEN",
+      "TU9Q7Umf7a6-dSTHAypvsA": "HIDDEN",
+      "8Uwu7VBBIWxwMzaILGbJlA": "HIDDEN",
+      "UUPczFrkMeF8aF8d6iBAjg": "HIDDEN",
+      "L0t1*KCnndVaHL4iymDsrA": "HIDDEN",
+      "CE7hZt*orM0Jk01sx5fjkQ": "HIDDEN",
+      "DkU2Is0dpKSAI4xNWwbvkg": "HIDDEN",
+      "dUgJ-GbyPVuNw0nyFqOpvg": "HIDDEN",
+      "EEXnLBQ70X2QjBoYkgllsQ": "HIDDEN",
+      "jUE-KuQxEoakmkIXXyrqnw": "WRITTEN"
+    },
+    "createdAt": "2025-12-16T20:45:36.516Z",
+    "deadline": "2026-04-02T04:00:00Z",
+    "canViewDetails": true,
+    "canCreateResponse": false,
+    "canEditResponse": false,
+    "canHideResponse": false,
+    "responseId": "IEhArcitq3TuBrX2FSTlsQ",
+    "visibleTo": [
+      "REVIEWEE",
+      "INDIRECT_MANAGER",
+      "DIRECT_MANAGER",
+      "HR"
+    ],
+    "hasFeedback": true,
+    "status": "CYCLE_ENDED",
+    "nominateBy": "2026-02-24T05:00:00Z",
+    "canNominateReviewers": false,
+    "nominationProcess": "REVIEWEE_WITHOUT_APPROVAL",
+    "releaseToYouBy": null,
+    "releasedToReviewee": true,
+    "canReleaseFeedback": false,
+    "approvingNominationsUntil": null,
+    "canManagerSeeFeedback": true,
+    "canRevieweeSeeFeedback": true,
+    "managerReleaseDate": null,
+    "revieweeReleaseDate": "2026-04-14T13:00:00Z",
+    "cycleEndsAt": "2026-04-18T04:00:00Z",
+    "reviewerLimits": {
+      "maximum": 0,
+      "suggestedMinimum": 4,
+      "suggestedMaximum": 20
+    },
+    "cycle": "o0qB8bdwtumoolHzNyp5jg",
+    "noteFromHr": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>",
+    "canLeaveNoteForReviewers": false,
+    "noteFromReviewee": "REDACTED",
+    "promptForNoteFromReviewee": "",
+    "type": "CYCLE",
+    "questionsWithAnswers": [
+      {
+        "id": "043f34o-0z1ysd2",
+        "type": "Heading",
+        "title": "TIPS FOR WRITING FEEDBACK",
+        "description": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>",
+        "answers": []
+      },
+      {
+        "id": "gw30pi",
+        "type": "Question",
+        "question": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>",
+        "answers": [
+          {
+            "id": "gw30pi",
+            "reviewer": {
+              "id": "jUE-KuQxEoakmkIXXyrqnw",
+              "name": "Person 3",
+              "firstName": "Person",
+              "lastName": "3",
+              "logo": "/avatar.svg",
+              "gender": "unspecified",
+              "isActive": true,
+              "isPlaceholder": false,
+              "managerId": "b49MMQgSSl*4Zaj4DvQLww",
+              "loginname": "person3@example.com"
+            },
+            "text": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>"
+          }
+        ],
+        "confidentialTopic": false
+      },
+      {
+        "id": "6acixd",
+        "type": "Question",
+        "question": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>",
+        "answers": [
+          {
+            "id": "6acixd",
+            "reviewer": {
+              "id": "jUE-KuQxEoakmkIXXyrqnw",
+              "name": "Person 3",
+              "firstName": "Person",
+              "lastName": "3",
+              "logo": "/avatar.svg",
+              "gender": "unspecified",
+              "isActive": true,
+              "isPlaceholder": false,
+              "managerId": "b49MMQgSSl*4Zaj4DvQLww",
+              "loginname": "person3@example.com"
+            },
+            "text": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>"
+          }
+        ],
+        "confidentialTopic": false
+      }
+    ],
+    "viewAsGrants": []
+  }
+]

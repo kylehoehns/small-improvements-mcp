@@ -1,0 +1,248 @@
+{
+  "id": "C0LAItTBHdPuvIsQ36kSmA",
+  "topic": {
+    "title": "Feedback Request"
+  },
+  "requester": {
+    "id": "l0XyLXSJBhD9ozJATnDpqA",
+    "name": "Person 1",
+    "firstName": "Person",
+    "lastName": "1",
+    "logo": "/avatar.svg",
+    "gender": "female",
+    "isActive": true,
+    "isPlaceholder": false,
+    "managerId": "PShoT5DOT-G0tVpgB9IQlQ",
+    "loginname": "person1@example.com"
+  },
+  "reviewees": [
+    {
+      "id": "jUE-KuQxEoakmkIXXyrqnw",
+      "name": "Person 3",
+      "firstName": "Person",
+      "lastName": "3",
+      "logo": "/avatar.svg",
+      "gender": "unspecified",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": "b49MMQgSSl*4Zaj4DvQLww",
+      "loginname": "person3@example.com"
+    }
+  ],
+  "reviewers": [
+    {
+      "id": "KkJriew3Dj95VRPt2ehKsw",
+      "name": "Person 4",
+      "firstName": "Person",
+      "lastName": "4",
+      "logo": "/avatar.svg",
+      "gender": "female",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": "b49MMQgSSl*4Zaj4DvQLww",
+      "loginname": "person4@example.com"
+    },
+    {
+      "id": "g003u3HizxZZvqzXtRlZtg",
+      "name": "Person 5",
+      "firstName": "Person",
+      "lastName": "5",
+      "logo": "/avatar.svg",
+      "gender": "unspecified",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": null,
+      "loginname": "person5@example.com"
+    },
+    {
+      "id": "vEbNGQ1eWFAjIxDlLcG3gQ",
+      "name": "Person 6",
+      "firstName": "Person",
+      "lastName": "6",
+      "logo": "/avatar.svg",
+      "gender": "unspecified",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": "b49MMQgSSl*4Zaj4DvQLww",
+      "loginname": "person6@example.com"
+    },
+    {
+      "id": "iELTSTOKh3*ZWT1H-flzhg",
+      "name": "Person 7",
+      "firstName": "Person",
+      "lastName": "7",
+      "logo": "/avatar.svg",
+      "gender": "male",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": "PShoT5DOT-G0tVpgB9IQlQ",
+      "loginname": "person7@example.com"
+    },
+    {
+      "id": "sUri-HDmxOXpO4haPYsnjA",
+      "name": "Person 8",
+      "firstName": "Person",
+      "lastName": "8",
+      "logo": "/avatar.svg",
+      "gender": "male",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": "b49MMQgSSl*4Zaj4DvQLww",
+      "loginname": "person8@example.com"
+    },
+    {
+      "id": "UUVktdwuBTuIAdF1ze*Yjg",
+      "name": "Person 9",
+      "firstName": "Person",
+      "lastName": "9",
+      "logo": "/avatar.svg",
+      "gender": "male",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": "PShoT5DOT-G0tVpgB9IQlQ",
+      "loginname": "person9@example.com"
+    },
+    {
+      "id": "Fkj*0CdUxt73b-qWz3-imw",
+      "name": "Person 10",
+      "firstName": "Person",
+      "lastName": "10",
+      "logo": "/avatar.svg",
+      "gender": "unspecified",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": null,
+      "loginname": "person10@example.com"
+    },
+    {
+      "id": "K04Tg7hKBAZ2kno3NFrilQ",
+      "name": "Person 11",
+      "firstName": "Person",
+      "lastName": "11",
+      "logo": "/avatar.svg",
+      "gender": "unspecified",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": null,
+      "loginname": "person11@example.com"
+    },
+    {
+      "id": "0kTBCF*lMMLrKD3ByYBRgw",
+      "name": "Person 12",
+      "firstName": "Person",
+      "lastName": "12",
+      "logo": "/avatar.svg",
+      "gender": "unspecified",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": null,
+      "loginname": "person12@example.com"
+    },
+    {
+      "id": "QUfOkIjOND-mib2Lztbtjg",
+      "name": "Person 13",
+      "firstName": "Person",
+      "lastName": "13",
+      "logo": "/avatar.svg",
+      "gender": "unspecified",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": "b49MMQgSSl*4Zaj4DvQLww",
+      "loginname": "person13@example.com"
+    },
+    {
+      "id": "4UHc9tIiTaUpNmxKSO7Ouw",
+      "name": "Person 14",
+      "firstName": "Person",
+      "lastName": "14",
+      "logo": "/avatar.svg",
+      "gender": "unspecified",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": null,
+      "loginname": "person14@example.com"
+    },
+    {
+      "id": "fUo7O4ZrdLTv*p1BXGZxtA",
+      "name": "Person 15",
+      "firstName": "Person",
+      "lastName": "15",
+      "logo": "/avatar.svg",
+      "gender": "unspecified",
+      "isActive": true,
+      "isPlaceholder": false,
+      "managerId": null,
+      "loginname": "person15@example.com"
+    }
+  ],
+  "progressByReviewer": {
+    "KkJriew3Dj95VRPt2ehKsw": "WRITING",
+    "vEbNGQ1eWFAjIxDlLcG3gQ": "WRITING",
+    "g003u3HizxZZvqzXtRlZtg": "WRITING",
+    "fUo7O4ZrdLTv*p1BXGZxtA": "WRITTEN",
+    "Fkj*0CdUxt73b-qWz3-imw": "WRITTEN",
+    "K04Tg7hKBAZ2kno3NFrilQ": "WRITTEN"
+  },
+  "createdAt": "2026-03-24T19:50:46.637Z",
+  "deadline": "2026-06-09T04:00:00Z",
+  "canViewDetails": false,
+  "canCreateResponse": false,
+  "canEditResponse": false,
+  "canHideResponse": false,
+  "responseId": null,
+  "visibleTo": [
+    "REVIEWEE",
+    "INDIRECT_MANAGER",
+    "DIRECT_MANAGER",
+    "HR"
+  ],
+  "hasFeedback": true,
+  "status": "IN_PROGRESS_RELEASE_ON_DEADLINE",
+  "nominateBy": "2026-05-02T04:00:00Z",
+  "canNominateReviewers": false,
+  "nominationProcess": "REVIEWEE_WITHOUT_APPROVAL",
+  "releaseToYouBy": "2026-06-21T13:00:00Z",
+  "releasedToReviewee": false,
+  "canReleaseFeedback": false,
+  "approvingNominationsUntil": null,
+  "canManagerSeeFeedback": true,
+  "canRevieweeSeeFeedback": true,
+  "managerReleaseDate": null,
+  "revieweeReleaseDate": "2026-06-21T13:00:00Z",
+  "cycleEndsAt": "2026-06-25T04:00:00Z",
+  "reviewerLimits": {
+    "maximum": 0,
+    "suggestedMinimum": 4,
+    "suggestedMaximum": 20
+  },
+  "cycle": "BEltNCB30yQCOqpUbSBrgA",
+  "noteFromHr": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>",
+  "canLeaveNoteForReviewers": false,
+  "noteFromReviewee": "REDACTED",
+  "promptForNoteFromReviewee": "",
+  "type": "CYCLE",
+  "questionsWithAnswers": [
+    {
+      "id": "043f34o-0z1ysd2",
+      "type": "Heading",
+      "title": "TIPS FOR WRITING FEEDBACK",
+      "description": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>",
+      "answers": []
+    },
+    {
+      "id": "gw30pi",
+      "type": "Question",
+      "question": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>",
+      "answers": [],
+      "confidentialTopic": false
+    },
+    {
+      "id": "6acixd",
+      "type": "Question",
+      "question": "<!--MARKUP_VERSION:v4--><p>Great work on this \u2014 really appreciated your contribution and collaboration.</p>",
+      "answers": [],
+      "confidentialTopic": false
+    }
+  ],
+  "viewAsGrants": []
+}
